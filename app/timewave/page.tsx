@@ -186,7 +186,7 @@ const Timewave = () => {
         <header className="mb-10">
           <h1 className="text-4xl font-light tracking-tight mb-4">Timewave Zero</h1>
           <p className="text-base text-gray-400 leading-relaxed mb-2">
-            Explore Terence McKenna's theory of fractal time. Visualizations are built on the 64 I Ching hexagrams and their recursive transformations.
+            Explore Terence McKenna&apos;s theory of fractal time. Visualizations are built on the 64 I Ching hexagrams and their recursive transformations.
           </p>
         </header>
 
